@@ -20,3 +20,6 @@
 @import url('../blocks/beuys/__content/-description/beuys__content-description.css');
 @import url('../blocks/beuys/__content/-author/beuys__content-author.css');
 @import url('../blocks/beuys/__description/beuys__description.css');
+
+/* gallery */
+@import url('../blocks/gallery/gallery.css');
