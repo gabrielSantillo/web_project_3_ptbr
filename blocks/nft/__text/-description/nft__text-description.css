@@ -1,0 +1,11 @@
+.nft__text-description {
+    margin-top: 12px;
+    display: grid;
+    row-gap: 25px;
+}
+
+.nft__text-description p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.34px;
+}

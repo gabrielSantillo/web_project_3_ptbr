@@ -1,0 +1,10 @@
+.nft__text-artist {
+    margin-top: 140px;
+}
+
+.nft__text-artist p:first-child {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14.52px;
+    color: #aaa;
+}
