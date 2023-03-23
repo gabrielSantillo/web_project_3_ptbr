@@ -12,3 +12,7 @@
 @import url('../blocks/patria/__title/patria__title.css');
 @import url('../blocks/patria/__subtitle/patria__subtitle.css');
 @import url('../blocks/patria/__image/patria__image.css');
+
+/* Beuys */
+@import url('../blocks/beuys/beuys.css');
+@import url('../blocks/beuys/__title/beuys__title.css');
