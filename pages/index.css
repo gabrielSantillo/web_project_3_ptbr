@@ -6,14 +6,13 @@
 
 /* nft - REUSABLE */
 @import url('../blocks/nft/nft.css');
+@import url('../blocks/nft/__country/nft__country.css');
+@import url('../blocks/nft/__country/-name/nft__country-name.css');
+@import url('../blocks/nft/__country/-artist/nft__country-artist.css');
 @import url('../blocks/nft/__content/nft__content.css');
-@import url('../blocks/nft/__content/-title/nft__content-title.css');
+@import url('../blocks/nft/__content/-description/nft__content-description.css');
 @import url('../blocks/nft/__content/-image/nft__content-image.css');
-@import url('../blocks/nft/__content/-button/nft__content-button.css');
-@import url('../blocks/nft/__text/nft__text.css');
-@import url('../blocks/nft/__text/-description/nft__text-description.css');
-@import url('../blocks/nft/__text/-artist/nft__text-artist.css');
-@import url('../blocks/nft/__text/-artist/-name/nft__text-artist-name.css');
+@import url('../blocks/nft/__content/-description/nft__content-description.css');
 
 /* HEADER */
 @import url('../blocks/header/header.css');
