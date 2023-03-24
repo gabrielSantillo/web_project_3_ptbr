@@ -8,4 +8,7 @@
 .nft__content-description p {
     margin-top: 0;
     margin-bottom: 0;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29.34px;
 }
