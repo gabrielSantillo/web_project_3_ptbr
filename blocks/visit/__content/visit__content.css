@@ -1,0 +1,7 @@
+.visit__content {
+    position: relative;
+    display: grid;
+    row-gap: 32px;
+    place-items: center;
+    text-align: center;
+}
