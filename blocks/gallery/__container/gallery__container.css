@@ -1,0 +1,4 @@
+.gallery__container  {
+    display: grid;
+    row-gap: 12px;
+}

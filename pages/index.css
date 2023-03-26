@@ -36,6 +36,8 @@
 
 /* gallery */
 @import url('../blocks/gallery/gallery.css');
+@import url('../blocks/gallery/__container/gallery__container.css');
+@import url('../blocks/gallery/__container/-image/gallery__container-image.css');
 
 /* visit */
 @import url('../blocks/visit/visit.css');
