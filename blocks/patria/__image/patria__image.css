@@ -1,6 +1,5 @@
 .patria__image {
-    width: 984px;
-    height: 615px;  
+    width: 100%;
     -webkit-filter: grayscale(100%);
     filter: grayscale(100%);
     filter: gray;

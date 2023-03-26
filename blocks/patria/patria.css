@@ -1,7 +1,7 @@
 .patria {
-    margin-top: 91px;
+    margin-top: 51px;
     display: grid;
-    place-items: center;
     text-align: center;
     row-gap: 64px;
 }
+
