@@ -1,11 +1,13 @@
 .nft__button {
-    margin-top: 61px;
-    padding: 13px 20px 13px 20px;
+    margin-top: 22px;
+    margin-left: 16px;
+    margin-right: 16px;
+    padding: 15px 20px 15px 20px;
     border: none;
     color: #fff;
-    font-size: 18px;
+    font-size: 14px;
     font-weight: 600;
-    line-height: 21.78px;
+    line-height: 17px;
     background-color: #0278fe;
     cursor: pointer;
     transition: .4s;

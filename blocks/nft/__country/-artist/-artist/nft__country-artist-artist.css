@@ -1,6 +1,7 @@
 .nft__country-artist-artist {
+    margin: 0;
     font-weight: 400;
     font-size: 12px;
-    line-height: 14.52px;
+    line-height: 14px;
     color: #aaa;
 }

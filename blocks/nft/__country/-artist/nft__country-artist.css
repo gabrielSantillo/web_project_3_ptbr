@@ -1,4 +1,4 @@
 .nft__country-artist {
-    position: relative;
-    bottom: 0;
+    display: grid;
+    row-gap: 8px;
 }

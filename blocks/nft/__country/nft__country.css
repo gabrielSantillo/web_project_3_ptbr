@@ -1,6 +1,6 @@
 .nft__country {
-    display: flex;
-    column-gap: 40px;
-    justify-content: start;
-    align-items:flex-end;
+    display: grid;
+    row-gap: 30px;
+    margin-right: 16px;
+    margin-left: 16px;
 }
