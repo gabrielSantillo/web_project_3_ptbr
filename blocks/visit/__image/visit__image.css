@@ -1,5 +1,4 @@
 .visit__image {
-    position: absolute;
     filter: opacity(70%);
     transition: .4s;
 }
