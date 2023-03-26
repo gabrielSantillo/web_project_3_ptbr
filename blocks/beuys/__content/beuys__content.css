@@ -1,4 +1,9 @@
 .beuys__content {
-    width: 722px;
-    height: 136px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.beuys__content p {
+    margin: 0;
 }
