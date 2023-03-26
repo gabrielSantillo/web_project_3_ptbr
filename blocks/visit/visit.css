@@ -1,7 +1,8 @@
 .visit {
-    margin-top: 92px;
+    margin-top: 64px;
     position: relative;
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
 }

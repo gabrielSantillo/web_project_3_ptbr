@@ -1,6 +1,7 @@
 .visit__image {
     filter: opacity(70%);
     transition: .4s;
+    height: 254px;
 }
 
 .visit__image:hover {

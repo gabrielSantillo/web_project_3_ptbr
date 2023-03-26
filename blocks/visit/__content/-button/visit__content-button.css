@@ -1,12 +1,12 @@
 .visit__content-button {
     border: none;
-    width: 191px;
-    height: 48px;
     padding: 13px 20px;
     background-color: #0278fe;
     color: #fff;
     cursor: pointer;
     transition: .4s;
+    font-size: 18px;
+    line-height: 21px;
 }
 
 .visit__content-button:hover {
