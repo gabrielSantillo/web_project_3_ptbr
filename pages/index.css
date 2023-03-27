@@ -14,8 +14,9 @@
 @import url('../blocks/nft/__content/nft__content.css');
 @import url('../blocks/nft/__content/-description/nft__content-description.css');
 @import url('../blocks/nft/__content/-image/nft__content-image.css');
+@import url('../blocks/nft/__content/-button/nft__content-button.css');
 @import url('../blocks/nft/__content/-description/nft__content-description.css');
-@import url('../blocks/nft/__button/nft__button.css');
+@import url('../blocks/nft/__button/-mobile/nft__button-mobile.css');
 
 /* HEADER */
 @import url('../blocks/header/header.css');

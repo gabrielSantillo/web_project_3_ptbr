@@ -1,0 +1,25 @@
+.nft__content-button {
+    display: none;
+}
+
+@media screen and (min-width: 768px) {
+.nft__content-button {
+    display: grid;
+    margin-top: 48px;
+    margin-left: 16px;
+    margin-right: 16px;
+    padding: 15px 20px 15px 20px;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    background-color: #0278fe;
+    cursor: pointer;
+    transition: .4s;
+}
+
+.nft__content-button:hover {
+    background-color: #0063d2;
+    }
+}

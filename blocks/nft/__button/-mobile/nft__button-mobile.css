@@ -1,4 +1,5 @@
-.nft__button {
+.nft__button-mobile {
+    display: grid;
     margin-top: 22px;
     margin-left: 16px;
     margin-right: 16px;
@@ -13,10 +14,12 @@
     transition: .4s;
 }
 
-.nft__button:hover {
+.nft__button-mobile:hover {
     background-color: #0063d2;
 }
 
 @media screen and (min-width: 768px) {
-
+    .nft__button-mobile {
+        display: none;
+    }
 }
