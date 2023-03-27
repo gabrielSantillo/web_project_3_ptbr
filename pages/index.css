@@ -41,6 +41,9 @@
 @import url('../blocks/gallery/__container/gallery__container.css');
 @import url('../blocks/gallery/__container/-image/gallery__container-image.css');
 
+/* kiev */
+@import url('../blocks/kiev/kiev.css');
+
 /* visit */
 @import url('../blocks/visit/visit.css');
 @import url('../blocks/visit/__image/visit__image.css');

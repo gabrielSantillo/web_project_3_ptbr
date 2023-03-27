@@ -11,3 +11,14 @@
         line-height: 46px;
     }
 }
+
+@media screen and (min-width: 1280px) { 
+    .nft__country-name {
+        font-size: 72px;
+        line-height: 76px;
+    }
+
+    .nft__country-name span {
+        display: block;
+    }
+}

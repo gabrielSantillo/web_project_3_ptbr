@@ -4,6 +4,10 @@
     margin-left: 16px;
 }
 
+.nft__content div {
+    margin: 0;
+}
+
 @media screen and (min-width: 768px) {
     .nft__content {
         margin-top: 46px;
@@ -11,5 +15,12 @@
         display: grid;
         grid-template-columns: 1fr 1fr;
         column-gap: 28px;
+    }
+}
+
+@media screen and (min-width: 1280px) { 
+    .nft__content {
+        margin-left: 148px;
+        column-gap: 40px;
     }
 }

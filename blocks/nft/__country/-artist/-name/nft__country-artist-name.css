@@ -4,3 +4,9 @@
     font-size: 18px;
     line-height: 22px;   
 }
+
+@media screen and (min-width: 1280px) {
+    .nft__country-artist-name {
+        align-self: self-end;
+    }
+}
