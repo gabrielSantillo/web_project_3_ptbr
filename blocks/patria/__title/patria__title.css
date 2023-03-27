@@ -2,5 +2,15 @@
     font-size: 40px;
     font-weight: 900;
     line-height: 44px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-top: 50px;
 }
 
+@media screen and (min-width: 768px) {
+    .patria__title {
+        font-size: 96px;
+        line-height: 100px;
+        margin-top: 91px;
+    }
+}
