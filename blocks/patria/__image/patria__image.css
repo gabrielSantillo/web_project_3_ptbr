@@ -8,6 +8,7 @@
 @media screen and (min-width: 1280px) {
     .patria__image {
         width: 984px;
-        justify-self: center;
+        margin-right: 148px;
+        margin-left: 148px;
     }
 }

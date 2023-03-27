@@ -2,10 +2,18 @@
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
+    margin-bottom: 0;
 }
 
 @media screen and (min-width: 768px) {
     .beuys__description {
         margin-top: 42px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .beuys__description {
+        margin-left: 148px;
+        margin-right: 412px;
     }
 }
