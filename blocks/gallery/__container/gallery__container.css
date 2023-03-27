@@ -9,3 +9,9 @@
         gap: 16px;
     }
 }
+
+@media screen and (min-width: 1280px) {
+    .gallery__container {
+        grid-template-columns: repeat(4, 284px);
+    }
+}

@@ -10,3 +10,11 @@
         margin-right: 24px;
     }
 }
+
+@media screen and (min-width: 1280px) {
+    .gallery {
+        margin-left: 48px;
+        margin-right: 48px;
+        margin-top: 92px;
+    }
+}
