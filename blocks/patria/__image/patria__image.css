@@ -4,3 +4,10 @@
     filter: grayscale(100%);
     filter: gray;
 }
+
+@media screen and (min-width: 1280px) {
+    .patria__image {
+        width: 984px;
+        justify-self: center;
+    }
+}

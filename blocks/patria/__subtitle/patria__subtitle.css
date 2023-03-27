@@ -16,3 +16,11 @@
         margin-top: 24px;
     }
 }
+
+@media screen and (min-width: 1280px) {
+    .patria__subtitle {
+        padding-left: 280px;
+        padding-right: 280px;
+        margin-top: 32px;
+    }
+}
