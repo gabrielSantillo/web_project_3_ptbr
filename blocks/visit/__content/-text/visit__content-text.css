@@ -4,3 +4,10 @@
     font-size: 14px;
     line-height: 16px;
 }
+
+@media screen and (min-width: 768px) {
+    .visit__content-text {
+        font-size: 18px;
+        line-height: 22px;
+    }
+}
