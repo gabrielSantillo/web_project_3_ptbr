@@ -1,11 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&family=Lato:wght@400;700&family=Lora:wght@500;600;700&display=swap');
-
 .page {
     /* here we've set a maximum page width */
     margin: 0 auto;
     /* this ensures that all content is centered on screens wider than 1600px */
-    font-family: 'Inter', Arial, sans-serif;
-    max-width: 1600px;
+    font-family: 'inter', Arial, sans-serif;
     color: #fff;
   
   }
