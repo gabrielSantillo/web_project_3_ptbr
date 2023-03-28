@@ -8,6 +8,6 @@
 
 @media screen and (min-width: 1280px) {
     .nft__country-artist-artist {
-        align-self: self-end;
+        display: none;
     }
 }

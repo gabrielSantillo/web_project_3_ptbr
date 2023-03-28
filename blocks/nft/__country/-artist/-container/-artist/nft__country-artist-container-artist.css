@@ -1,0 +1,13 @@
+@media screen and (max-width: 1279px) {
+    .nft__country-artist-container-artist {
+        display: none;
+    }
+}
+
+.nft__country-artist-container-artist {
+    margin: 0;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #aaa;
+}

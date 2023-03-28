@@ -1,0 +1,7 @@
+@media screen and (min-width: 1280px) {
+    .nft__country-artist-container {
+        display: grid;
+        row-gap: 8px;
+        align-self: flex-end;
+    }
+}

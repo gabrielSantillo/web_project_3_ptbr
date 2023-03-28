@@ -9,6 +9,9 @@
 @import url('../blocks/nft/__country/nft__country.css');
 @import url('../blocks/nft/__country/-name/nft__country-name.css');
 @import url('../blocks/nft/__country/-artist/nft__country-artist.css');
+@import url('../blocks/nft/__country/-artist/-container/nft__country-artist-container.css');
+@import url('../blocks/nft/__country/-artist/-container/-artist/nft__country-artist-container-artist.css');
+@import url('../blocks/nft/__country/-artist/-container/-name/nft__country-artist-container-name.css');
 @import url('../blocks/nft/__country/-artist/-artist/nft__country-artist-artist.css');
 @import url('../blocks/nft/__country/-artist/-name/nft__country-artist-name.css');
 @import url('../blocks/nft/__content/nft__content.css');
