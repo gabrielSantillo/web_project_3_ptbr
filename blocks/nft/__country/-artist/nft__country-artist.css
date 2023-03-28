@@ -2,3 +2,19 @@
     display: grid;
     row-gap: 8px;
 }
+
+.nft__country-artist div .nft__country-artist-artist {
+    display: none;
+}
+
+@media screen and (min-width: 1280px) {
+    .nft__country-artist div .nft__country-artist-artist {
+        display: grid;
+     }
+
+    .nft__country-artist div {
+        display: grid;
+        row-gap: 8px;
+        align-self: flex-end;
+    }
+}
